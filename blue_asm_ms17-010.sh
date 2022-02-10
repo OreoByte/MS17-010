@@ -22,6 +22,7 @@ cat <<eof
 
 	./blue.sh -m run -r 10.10.24.61 -p 1234
 	./blue.sh -m run -r 10.10.24.61
+		* NOTE; "may have to run the run more than once if it fails"
 eof
 exit 1
 }
